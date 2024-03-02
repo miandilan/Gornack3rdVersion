@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Materials/Fire_VFX/Game/OverIce_1.uasset",
+				"C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Materials/Fire_VFX/UnusedSmoketest.uasset",
+				"C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Materials/Fire_VFX/Game/OverRage.uasset",
 				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Blueprints/Enemies/AdvancedEnemy/AdvEnemyTree.uasset",
 				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Blueprints/Enemies/AdvancedEnemy/Tasks/BTTask_Orbit.uasset",
 				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Blueprints/Enemies/AdvancedEnemy/BP_AdvEnemyBase.uasset",
