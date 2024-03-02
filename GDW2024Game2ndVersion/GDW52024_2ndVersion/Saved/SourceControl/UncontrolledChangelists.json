@@ -10,7 +10,13 @@
 				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Blueprints/Enemies/AdvancedEnemy/BP_AdvEnemyBase.uasset",
 				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Blueprints/Enemies/AdvancedEnemy/Tasks/BTTASK_AdvAttack.uasset",
 				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Blueprints/Tree.uasset",
-				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Levels/Marketplace.umap"
+				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Levels/Marketplace.umap",
+				"D:/GDW 6/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Blueprints/Enemies/AdvancedEnemy/BP_AdvEnemyBase.uasset",
+				"D:/GDW 6/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Blueprints/Enemies/AdvancedEnemy/AdvEnemyTree.uasset",
+				"D:/GDW 6/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Blueprints/Enemies/Enemy_AI.uasset",
+				"D:/GDW 6/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Blueprints/Enemies/BT_Enemy.uasset",
+				"D:/GDW 6/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Levels/Marketplace.umap",
+				"D:/GDW 6/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Blueprints/Enemies/AdvancedEnemy/Tasks/BTTask_Orbit.uasset"
 			]
 		}
 	]
