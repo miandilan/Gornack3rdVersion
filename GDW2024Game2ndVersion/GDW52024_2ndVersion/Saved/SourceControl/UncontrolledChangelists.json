@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Blueprints/Enemies/AdvancedEnemy/AdvEnemyTree.uasset",
+				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Blueprints/Enemies/AdvancedEnemy/Tasks/BTTask_Orbit.uasset",
+				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Blueprints/Enemies/AdvancedEnemy/BP_AdvEnemyBase.uasset",
+				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Blueprints/Enemies/AdvancedEnemy/Tasks/BTTASK_AdvAttack.uasset",
+				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Blueprints/Tree.uasset",
+				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Levels/Marketplace.umap"
+			]
+		}
+	]
+}
