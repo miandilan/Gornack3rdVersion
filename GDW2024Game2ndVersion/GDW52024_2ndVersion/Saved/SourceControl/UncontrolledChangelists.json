@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/M/Documents/University/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Blueprints/Interactables/Upgrade/UpgradeMenu.uasset",
+				"C:/Users/M/Documents/University/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Blueprints/BP_Player.uasset",
+				"C:/Users/M/Documents/University/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Levels/KhangTest.umap",
+				"C:/Users/M/Documents/University/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Blueprints/WP_Health.uasset",
 				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Blueprints/Enemies/AdvancedEnemy/AdvEnemyTree.uasset",
 				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Blueprints/Enemies/AdvancedEnemy/Tasks/BTTask_Orbit.uasset",
 				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Blueprints/Enemies/AdvancedEnemy/BP_AdvEnemyBase.uasset",
