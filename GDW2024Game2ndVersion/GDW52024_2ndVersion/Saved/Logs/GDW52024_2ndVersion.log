@@ -1669,6 +1669,7 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.09-14.29.12:499][222]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
 [2024.03.09-14.29.12:504][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
 [2024.03.09-14.29.12:583][223]LogPlayLevel: Display: Destroying online subsystem :Context_13
+<<<<<<< Updated upstream
 [2024.03.09-14.45.22:515][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
 [2024.03.09-14.45.22:518][516]LogStall: Shutdown...
 [2024.03.09-14.45.22:536][516]LogStall: Shutdown complete.
@@ -2281,3 +2282,5 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.09-14.45.31:180][517]LogD3D12RHI: ~FD3D12DynamicRHI
 [2024.03.09-14.45.31:247][517]LogExit: Exiting.
 [2024.03.09-14.45.31:262][517]Log file closed, 03/09/24 09:45:31
+=======
+>>>>>>> Stashed changes
