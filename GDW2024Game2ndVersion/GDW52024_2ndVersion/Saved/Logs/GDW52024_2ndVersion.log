@@ -1676,3 +1676,179 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.24-02.00.34:626][  5]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.431ms to complete.
 [2024.03.24-02.04.00:870][893]LogViewport: Scene viewport resized to 1592x528, mode Windowed.
 [2024.03.24-02.05.41:570][852]LogUObjectHash: Compacting FUObjectHashTables data took  11.79ms
+[2024.03.24-02.06.53:119][213]LogHttp: Warning: 00000A819CB9CD00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.24-02.06.53:119][213]LogHttp: Warning: 00000A819CB9CD00: libcurl info message cache 0 (Found bundle for host: 0xa812d950c30 [serially])
+[2024.03.24-02.06.53:119][213]LogHttp: Warning: 00000A819CB9CD00: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.24-02.06.53:119][213]LogHttp: Warning: 00000A819CB9CD00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.24-02.06.53:120][213]LogHttp: Warning: 00000A819CB9CD00: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.24-02.06.53:120][213]LogHttp: Warning: 00000A819CB9CD00: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.24-02.06.53:120][213]LogHttp: Warning: 00000A819CB9CD00: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.24-02.06.53:120][213]LogHttp: Warning: 00000A819CB9CD00: libcurl info message cache 6 (Closing connection)
+[2024.03.24-02.06.53:120][213]LogHttp: Warning: 00000A819CB9CD00: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.24-02.06.53:120][213]LogHttp: Warning: 00000A819CB9CD00: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6985CC5A-4AE9-E369-3F66-BBA6B7B4F539%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=62b86b9243341ab968482ca8720db2f3%7C244981c6f4944d48979e298172f5c3de%7Caf8ebb12-3830-44f6-85ec-7bff21256590&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.24-02.06.53:120][213]LogHttp: Warning: 00000A819CB9CD00: libcurl info message cache 9 (  Trying 3.92.11.105:443...)
+[2024.03.24-02.06.53:120][213]LogHttp: Warning: 00000A819CB9CD00: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (3.92.11.105) port 443)
+[2024.03.24-02.06.53:120][213]LogHttp: Warning: 00000A819CB9CD00: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.24-02.06.53:120][213]LogHttp: Warning: 00000A819CB9CD00: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.24-02.06.53:120][213]LogHttp: Warning: 00000A819CB9CD00: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.24-02.06.53:120][213]LogHttp: Warning: 00000A819CB9CD00: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.24-02.06.53:120][213]LogHttp: Warning: 00000A819CB9CD00: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.24-02.06.53:120][213]LogHttp: Warning: 00000A819CB9CD00: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.24-02.06.53:120][213]LogHttp: Warning: 00000A819CB9CD00: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.24-02.06.53:120][213]LogHttp: Warning: 00000A819CB9CD00: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.24-02.06.53:121][213]LogHttp: Warning: 00000A819CB9CD00: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.24-02.06.53:121][213]LogHttp: Warning: 00000A819CB9CD00: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.24-02.06.53:121][213]LogHttp: Warning: 00000A819CB9CD00: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.24-02.06.53:121][213]LogHttp: Warning: 00000A819CB9CD00: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.24-02.06.53:121][213]LogHttp: Warning: 00000A819CB9CD00: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.24-02.06.53:121][213]LogHttp: Warning: 00000A819CB9CD00: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.24-02.06.53:121][213]LogHttp: Warning: 00000A819CB9CD00: libcurl info message cache 25 (Server certificate:)
+[2024.03.24-02.06.53:121][213]LogHttp: Warning: 00000A819CB9CD00: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.24-02.06.53:121][213]LogHttp: Warning: 00000A819CB9CD00: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.24-02.06.53:121][213]LogHttp: Warning: 00000A819CB9CD00: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.24-02.06.53:121][213]LogHttp: Warning: 00000A819CB9CD00: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.24-02.06.53:121][213]LogHttp: Warning: 00000A819CB9CD00: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.24-02.06.53:121][213]LogHttp: Warning: 00000A819CB9CD00: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.24-02.06.53:121][213]LogHttp: Warning: 00000A819CB9CD00: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.24-02.06.53:121][213]LogHttp: Warning: 00000A819CB9CD00: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.24-02.06.53:121][213]LogHttp: Warning: 00000A819CB9CD00: libcurl info message cache 34 (Closing connection)
+[2024.03.24-02.06.53:121][213]LogHttp: Warning: 00000A819CB9CD00: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.24-02.06.53:121][213]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6985CC5A-4AE9-E369-3F66-BBA6B7B4F539%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=62b86b9243341ab968482ca8720db2f3%7C244981c6f4944d48979e298172f5c3de%7Caf8ebb12-3830-44f6-85ec-7bff21256590&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.24-02.09.30:737][487]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Transfer/Earth2/Rubble2small1) ...
+[2024.03.24-02.09.31:113][487]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.24-02.09.31:340][487]LogSavePackage: Moving output files for package: /Game/Modelss/Transfer/Ice2/IceAshe
+[2024.03.24-02.09.31:340][487]LogSavePackage: Moving 'C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Saved/IceAshe84157BEE41E2166A7847309225EA5575.tmp' to 'C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Modelss/Transfer/Ice2/IceAshe.uasset'
+[2024.03.24-02.09.31:399][487]LogSavePackage: Moving output files for package: /Game/Modelss/Transfer/Fire2/FireAshe
+[2024.03.24-02.09.31:399][487]LogSavePackage: Moving 'C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Saved/FireAsheF3095E524FC99E2BEA7AEA8C19A1CB13.tmp' to 'C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Modelss/Transfer/Fire2/FireAshe.uasset'
+[2024.03.24-02.09.31:416][487]LogSavePackage: Moving output files for package: /Game/Modelss/Transfer/Earth2/Rubble2small1
+[2024.03.24-02.09.31:417][487]LogSavePackage: Moving 'C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Saved/Rubble2small1A831F882424C9ED24C7120AA500BE136.tmp' to 'C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Modelss/Transfer/Earth2/Rubble2small1.uasset'
+[2024.03.24-02.09.31:432][487]LogSavePackage: Moving output files for package: /Game/Modelss/Transfer/Earth2/Rubble2small2
+[2024.03.24-02.09.31:432][487]LogSavePackage: Moving 'C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Saved/Rubble2small221E449B248F96754441CAD9CCBCF1E2A.tmp' to 'C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Modelss/Transfer/Earth2/Rubble2small2.uasset'
+[2024.03.24-02.09.31:503][487]LogSavePackage: Moving output files for package: /Game/Modelss/Transfer/Earth2/EarthAshe
+[2024.03.24-02.09.31:503][487]LogSavePackage: Moving 'C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Saved/EarthAshe6DDC98BA44EC7E0FF86802A0033EFC78.tmp' to 'C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Modelss/Transfer/Earth2/EarthAshe.uasset'
+[2024.03.24-02.09.31:525][487]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.24-02.09.31:778][487]LogSavePackage: Moving output files for package: /Game/Modelss/Transfer/Earth2/Rubble2small3
+[2024.03.24-02.09.31:778][487]LogSavePackage: Moving 'C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Saved/Rubble2small3C29C3A894B442743852E179FBA00C4C9.tmp' to 'C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Modelss/Transfer/Earth2/Rubble2small3.uasset'
+[2024.03.24-02.09.31:803][487]LogSavePackage: Moving output files for package: /Game/Modelss/Transfer/Earth2/Rubble2part3
+[2024.03.24-02.09.31:803][487]LogSavePackage: Moving 'C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Saved/Rubble2part39F185EFE4503F92592B70AB5DD66D070.tmp' to 'C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Modelss/Transfer/Earth2/Rubble2part3.uasset'
+[2024.03.24-02.09.31:828][487]LogSavePackage: Moving output files for package: /Game/Modelss/Transfer/Earth2/Rubble2part2
+[2024.03.24-02.09.31:828][487]LogSavePackage: Moving 'C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Saved/Rubble2part2D6334FAB4D1E6A856E8792845958CFCC.tmp' to 'C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Modelss/Transfer/Earth2/Rubble2part2.uasset'
+[2024.03.24-02.09.31:857][487]LogSavePackage: Moving output files for package: /Game/Modelss/Transfer/Earth2/Rubble2part1
+[2024.03.24-02.09.31:857][487]LogSavePackage: Moving 'C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Saved/Rubble2part1B07F320043F7227DA013FA882BFC36BA.tmp' to 'C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Modelss/Transfer/Earth2/Rubble2part1.uasset'
+[2024.03.24-02.09.31:862][487]LogSavePackage: Moving output files for package: /Game/Modelss/Transfer/Dust/DustMat
+[2024.03.24-02.09.31:862][487]LogSavePackage: Moving 'C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Saved/DustMat7FA734694965294A2391C8A42774E1D1.tmp' to 'C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Modelss/Transfer/Dust/DustMat.uasset'
+[2024.03.24-02.09.31:886][487]LogSavePackage: Moving output files for package: /Game/Modelss/Transfer/Dust/Dust2
+[2024.03.24-02.09.31:886][487]LogSavePackage: Moving 'C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Saved/Dust270345F6F4AA21D174EFED58BB066DDD3.tmp' to 'C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Modelss/Transfer/Dust/Dust2.uasset'
+[2024.03.24-02.09.31:923][487]LogSavePackage: Moving output files for package: /Game/Modelss/Transfer/Dust/Dust
+[2024.03.24-02.09.31:924][487]LogSavePackage: Moving 'C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Saved/DustE2B3A7E0426C67DEF5B69FB4F586FF10.tmp' to 'C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Modelss/Transfer/Dust/Dust.uasset'
+[2024.03.24-02.09.31:986][487]LogSavePackage: Moving output files for package: /Game/Modelss/Transfer/Rage2/FireAshe
+[2024.03.24-02.09.31:986][487]LogSavePackage: Moving 'C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Saved/FireAshe4A3228814F4C952290450DBDF897E821.tmp' to 'C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Modelss/Transfer/Rage2/FireAshe.uasset'
+[2024.03.24-02.09.32:000][487]LogFileHelpers: InternalPromptForCheckoutAndSave took 887 ms (total: 5.27 sec)
+[2024.03.24-02.09.32:229][487]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2024.03.24-02.09.32:264][487]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2024.03.24-02.09.32:303][487]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2024.03.24-02.09.32:476][487]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.24-02.09.32:476][487]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Modelss/Transfer/Ice2/IceAshe.IceAshe
+[2024.03.24-02.09.32:476][487]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Modelss/Transfer/Fire2/FireAshe.FireAshe
+[2024.03.24-02.09.32:476][487]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Modelss/Transfer/Earth2/Rubble2small1.Rubble2small1
+[2024.03.24-02.09.32:476][487]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Modelss/Transfer/Earth2/Rubble2small2.Rubble2small2
+[2024.03.24-02.09.32:476][487]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Modelss/Transfer/Earth2/EarthAshe.EarthAshe
+[2024.03.24-02.09.32:476][487]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Modelss/Transfer/Earth2/Rubble2small3.Rubble2small3
+[2024.03.24-02.09.32:476][487]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Modelss/Transfer/Earth2/Rubble2part3.Rubble2part3
+[2024.03.24-02.09.32:476][487]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Modelss/Transfer/Earth2/Rubble2part2.Rubble2part2
+[2024.03.24-02.09.32:476][487]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Modelss/Transfer/Earth2/Rubble2part1.Rubble2part1
+[2024.03.24-02.09.32:476][487]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Modelss/Transfer/Dust/DustMat.DustMat
+[2024.03.24-02.09.32:476][487]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Modelss/Transfer/Dust/Dust2.Dust2
+[2024.03.24-02.09.32:476][487]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Modelss/Transfer/Dust/Dust.Dust
+[2024.03.24-02.09.32:476][487]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Modelss/Transfer/Rage2/FireAshe.FireAshe
+[2024.03.24-02.09.53:284][710]LogHttp: Warning: 00000A82B70BCD00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.24-02.09.53:284][710]LogHttp: Warning: 00000A82B70BCD00: libcurl info message cache 0 (Found bundle for host: 0xa812d950780 [serially])
+[2024.03.24-02.09.53:284][710]LogHttp: Warning: 00000A82B70BCD00: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.24-02.09.53:284][710]LogHttp: Warning: 00000A82B70BCD00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.24-02.09.53:284][710]LogHttp: Warning: 00000A82B70BCD00: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.24-02.09.53:284][710]LogHttp: Warning: 00000A82B70BCD00: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.24-02.09.53:284][710]LogHttp: Warning: 00000A82B70BCD00: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.24-02.09.53:284][710]LogHttp: Warning: 00000A82B70BCD00: libcurl info message cache 6 (Closing connection)
+[2024.03.24-02.09.53:284][710]LogHttp: Warning: 00000A82B70BCD00: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.24-02.09.53:284][710]LogHttp: Warning: 00000A82B70BCD00: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6985CC5A-4AE9-E369-3F66-BBA6B7B4F539%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=62b86b9243341ab968482ca8720db2f3%7C244981c6f4944d48979e298172f5c3de%7Caf8ebb12-3830-44f6-85ec-7bff21256590&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.24-02.09.53:284][710]LogHttp: Warning: 00000A82B70BCD00: libcurl info message cache 9 (  Trying 54.157.10.6:443...)
+[2024.03.24-02.09.53:284][710]LogHttp: Warning: 00000A82B70BCD00: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (54.157.10.6) port 443)
+[2024.03.24-02.09.53:284][710]LogHttp: Warning: 00000A82B70BCD00: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.24-02.09.53:284][710]LogHttp: Warning: 00000A82B70BCD00: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.24-02.09.53:284][710]LogHttp: Warning: 00000A82B70BCD00: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.24-02.09.53:284][710]LogHttp: Warning: 00000A82B70BCD00: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.24-02.09.53:284][710]LogHttp: Warning: 00000A82B70BCD00: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.24-02.09.53:284][710]LogHttp: Warning: 00000A82B70BCD00: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.24-02.09.53:284][710]LogHttp: Warning: 00000A82B70BCD00: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.24-02.09.53:284][710]LogHttp: Warning: 00000A82B70BCD00: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.24-02.09.53:284][710]LogHttp: Warning: 00000A82B70BCD00: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.24-02.09.53:284][710]LogHttp: Warning: 00000A82B70BCD00: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.24-02.09.53:284][710]LogHttp: Warning: 00000A82B70BCD00: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.24-02.09.53:284][710]LogHttp: Warning: 00000A82B70BCD00: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.24-02.09.53:284][710]LogHttp: Warning: 00000A82B70BCD00: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.24-02.09.53:284][710]LogHttp: Warning: 00000A82B70BCD00: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.24-02.09.53:284][710]LogHttp: Warning: 00000A82B70BCD00: libcurl info message cache 25 (Server certificate:)
+[2024.03.24-02.09.53:284][710]LogHttp: Warning: 00000A82B70BCD00: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.24-02.09.53:284][710]LogHttp: Warning: 00000A82B70BCD00: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.24-02.09.53:284][710]LogHttp: Warning: 00000A82B70BCD00: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.24-02.09.53:284][710]LogHttp: Warning: 00000A82B70BCD00: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.24-02.09.53:284][710]LogHttp: Warning: 00000A82B70BCD00: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.24-02.09.53:284][710]LogHttp: Warning: 00000A82B70BCD00: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.24-02.09.53:284][710]LogHttp: Warning: 00000A82B70BCD00: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.24-02.09.53:284][710]LogHttp: Warning: 00000A82B70BCD00: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.24-02.09.53:284][710]LogHttp: Warning: 00000A82B70BCD00: libcurl info message cache 34 (Closing connection)
+[2024.03.24-02.09.53:284][710]LogHttp: Warning: 00000A82B70BCD00: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.24-02.09.53:284][710]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6985CC5A-4AE9-E369-3F66-BBA6B7B4F539%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=62b86b9243341ab968482ca8720db2f3%7C244981c6f4944d48979e298172f5c3de%7Caf8ebb12-3830-44f6-85ec-7bff21256590&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.24-02.11.06:105][205]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.24-02.11.06:259][205]LogSavePackage: Moving output files for package: /Game/Materials/FightVFX/Transfer/Rage2/FireAshe
+[2024.03.24-02.11.06:259][205]LogSavePackage: Moving 'C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Saved/FireAsheD1E827CB4AE25A099AD5B798DD6C4D3A.tmp' to 'C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Materials/FightVFX/Transfer/Rage2/FireAshe.uasset'
+[2024.03.24-02.11.06:271][205]LogSavePackage: Moving output files for package: /Game/Materials/FightVFX/Transfer/Dust/Dust
+[2024.03.24-02.11.06:271][205]LogSavePackage: Moving 'C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Saved/Dust21AE96444B1206EC83B9CDBCC28A645B.tmp' to 'C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Materials/FightVFX/Transfer/Dust/Dust.uasset'
+[2024.03.24-02.11.06:277][205]LogSavePackage: Moving output files for package: /Game/Materials/FightVFX/Transfer/Dust/Dust2
+[2024.03.24-02.11.06:277][205]LogSavePackage: Moving 'C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Saved/Dust2C9C12D7B4FCE4691D03F20B38D744CF2.tmp' to 'C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Materials/FightVFX/Transfer/Dust/Dust2.uasset'
+[2024.03.24-02.11.06:279][205]LogSavePackage: Moving output files for package: /Game/Materials/FightVFX/Transfer/Dust/DustMat
+[2024.03.24-02.11.06:279][205]LogSavePackage: Moving 'C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Saved/DustMatD3085ECF4FB8172663965FAF9DF7C864.tmp' to 'C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Materials/FightVFX/Transfer/Dust/DustMat.uasset'
+[2024.03.24-02.11.06:287][205]LogSavePackage: Moving output files for package: /Game/Materials/FightVFX/Transfer/Earth2/Rubble2part1
+[2024.03.24-02.11.06:287][205]LogSavePackage: Moving 'C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Saved/Rubble2part1136A6A8D4DE14F61406C7196240DF7D5.tmp' to 'C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Materials/FightVFX/Transfer/Earth2/Rubble2part1.uasset'
+[2024.03.24-02.11.06:297][205]LogSavePackage: Moving output files for package: /Game/Materials/FightVFX/Transfer/Earth2/Rubble2part2
+[2024.03.24-02.11.06:297][205]LogSavePackage: Moving 'C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Saved/Rubble2part20D1FE17B481D3FA77EB21995D13FB9C0.tmp' to 'C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Materials/FightVFX/Transfer/Earth2/Rubble2part2.uasset'
+[2024.03.24-02.11.06:306][205]LogSavePackage: Moving output files for package: /Game/Materials/FightVFX/Transfer/Earth2/Rubble2part3
+[2024.03.24-02.11.06:306][205]LogSavePackage: Moving 'C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Saved/Rubble2part3255F637845D0F580B0C1B4AE479E5A0F.tmp' to 'C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Materials/FightVFX/Transfer/Earth2/Rubble2part3.uasset'
+[2024.03.24-02.11.06:315][205]LogSavePackage: Moving output files for package: /Game/Materials/FightVFX/Transfer/Earth2/Rubble2small3
+[2024.03.24-02.11.06:315][205]LogSavePackage: Moving 'C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Saved/Rubble2small3E20858114ECBF4316032C6BE73A5F0B8.tmp' to 'C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Materials/FightVFX/Transfer/Earth2/Rubble2small3.uasset'
+[2024.03.24-02.11.06:378][205]LogSavePackage: Moving output files for package: /Game/Materials/FightVFX/Transfer/Earth2/EarthAshe
+[2024.03.24-02.11.06:378][205]LogSavePackage: Moving 'C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Saved/EarthAshe1FB7632E41200DAA6DAB85910E1B4300.tmp' to 'C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Materials/FightVFX/Transfer/Earth2/EarthAshe.uasset'
+[2024.03.24-02.11.06:386][205]LogSavePackage: Moving output files for package: /Game/Materials/FightVFX/Transfer/Earth2/Rubble2small2
+[2024.03.24-02.11.06:386][205]LogSavePackage: Moving 'C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Saved/Rubble2small281E067CC428FCF8EDF7C75A8263DC701.tmp' to 'C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Materials/FightVFX/Transfer/Earth2/Rubble2small2.uasset'
+[2024.03.24-02.11.06:396][205]LogSavePackage: Moving output files for package: /Game/Materials/FightVFX/Transfer/Earth2/Rubble2small1
+[2024.03.24-02.11.06:396][205]LogSavePackage: Moving 'C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Saved/Rubble2small196475B884D71439A9270D9921A43B227.tmp' to 'C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Materials/FightVFX/Transfer/Earth2/Rubble2small1.uasset'
+[2024.03.24-02.11.06:456][205]LogSavePackage: Moving output files for package: /Game/Materials/FightVFX/Transfer/Fire2/FireAshe
+[2024.03.24-02.11.06:456][205]LogSavePackage: Moving 'C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Saved/FireAshe5256A5B74BDA67A540C72F86D8612592.tmp' to 'C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Materials/FightVFX/Transfer/Fire2/FireAshe.uasset'
+[2024.03.24-02.11.06:540][205]LogSavePackage: Moving output files for package: /Game/Materials/FightVFX/Transfer/Ice2/IceAshe
+[2024.03.24-02.11.06:540][205]LogSavePackage: Moving 'C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Saved/IceAshe3A62B9404B9F1521C2F05F8F59049B7E.tmp' to 'C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Materials/FightVFX/Transfer/Ice2/IceAshe.uasset'
+[2024.03.24-02.11.06:552][205]LogFileHelpers: InternalPromptForCheckoutAndSave took 446 ms (total: 5.72 sec)
+[2024.03.24-02.11.06:773][205]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2024.03.24-02.11.06:800][205]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2024.03.24-02.11.06:825][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.03.24-02.11.07:008][205]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.24-02.11.07:008][205]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Materials/FightVFX/Transfer/Rage2/FireAshe.FireAshe
+[2024.03.24-02.11.07:008][205]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Materials/FightVFX/Transfer/Dust/Dust.Dust
+[2024.03.24-02.11.07:008][205]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Materials/FightVFX/Transfer/Dust/Dust2.Dust2
+[2024.03.24-02.11.07:008][205]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/FightVFX/Transfer/Dust/DustMat.DustMat
+[2024.03.24-02.11.07:008][205]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Materials/FightVFX/Transfer/Earth2/Rubble2part1.Rubble2part1
+[2024.03.24-02.11.07:008][205]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Materials/FightVFX/Transfer/Earth2/Rubble2part2.Rubble2part2
+[2024.03.24-02.11.07:008][205]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Materials/FightVFX/Transfer/Earth2/Rubble2part3.Rubble2part3
+[2024.03.24-02.11.07:008][205]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Materials/FightVFX/Transfer/Earth2/Rubble2small3.Rubble2small3
+[2024.03.24-02.11.07:008][205]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Materials/FightVFX/Transfer/Earth2/EarthAshe.EarthAshe
+[2024.03.24-02.11.07:009][205]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Materials/FightVFX/Transfer/Earth2/Rubble2small2.Rubble2small2
+[2024.03.24-02.11.07:009][205]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Materials/FightVFX/Transfer/Earth2/Rubble2small1.Rubble2small1
+[2024.03.24-02.11.07:009][205]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Materials/FightVFX/Transfer/Fire2/FireAshe.FireAshe
+[2024.03.24-02.11.07:009][205]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Materials/FightVFX/Transfer/Ice2/IceAshe.IceAshe
+[2024.03.24-02.11.30:847][ 51]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.24-02.11.31:070][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2024.03.24-02.11.31:788][ 51]LogSavePackage: Moving output files for package: /Game/Levels/Marketplace
+[2024.03.24-02.11.31:789][ 51]LogSavePackage: Moving 'C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Saved/Marketplace6A929822437D2BD1C432F69AB67C4E45.tmp' to 'C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Levels/Marketplace.umap'
+[2024.03.24-02.11.31:818][ 51]LogFileHelpers: Saving map 'Marketplace' took 0.851
+[2024.03.24-02.11.31:846][ 51]LogFileHelpers: InternalPromptForCheckoutAndSave took 998 ms (total: 6.72 sec)
+[2024.03.24-02.11.31:858][ 51]AssetCheck: New page: Asset Save: Marketplace
+[2024.03.24-02.11.31:858][ 51]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Marketplace.Marketplace
