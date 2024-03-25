@@ -2584,3 +2584,5 @@ LogConfig: CVar [[r.Occlusion.SingleRHIThreadStall:1]] deferred - dummy variable
 [2024.03.25-04.43.44:204][263]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
 [2024.03.25-04.43.44:204][263]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
 [2024.03.25-04.43.44:582][263]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.03.25-04.43.44:642][263]LogExit: Exiting.
+[2024.03.25-04.43.44:670][263]Log file closed, 03/25/24 00:43:44
