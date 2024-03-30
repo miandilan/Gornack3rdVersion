@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/john/Documents/GitHub/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Levels/TutorialScene.umap",
+				"/Users/john/Documents/GitHub/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Levels/TutorialScene_sharedassets/Dirt_LayerInfo.uasset",
+				"/Users/john/Documents/GitHub/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Levels/TutorialScene_sharedassets/Ground_LayerInfo.uasset",
+				"/Users/john/Documents/GitHub/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Levels/Camp.umap",
 				"D:/GDW 6/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Levels/Menu3d.umap",
 				"C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Blueprints/Interactables/Currency.uasset",
 				"C:/Users/Ethan/Documents/Unreal Projects/Gornack3rdVersion/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/LootBoxCurrency.uasset",
